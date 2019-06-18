@@ -1,0 +1,7 @@
+site_name: mkdocs
+pages:
+- home: index.md
+- About: about.md
+- Test: 2.md
+ 
+theme: mkdocs
